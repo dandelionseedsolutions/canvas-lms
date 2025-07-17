@@ -34,7 +34,7 @@
   "dependencies": {
     "@instructure/emotion": "9.10.0",
     "@instructure/k5uploader": "*",
-    "@instructure/media-capture": "^9.0.0",
+    "@instructure/media-capture": "^10.2.0",
     "@instructure/studio-player": "^0.1.5",
     "@instructure/ui-a11y-content": "9.10.0",
     "@instructure/ui-alerts": "9.10.0",
